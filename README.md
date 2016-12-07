@@ -31,9 +31,3 @@ To run the Webpage:
 * <a href="https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization.html">Optimize images</a>
 * <a href="https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching.html">HTTP caching</a>
 
-# Project Requirements
-
-## How do I complete this project?
-
-#### To complete the project students must meet the minimum of requirement according to the ruberic.
-[https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797/](https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797/ "Frogger Arcade Game Project Requirements")
