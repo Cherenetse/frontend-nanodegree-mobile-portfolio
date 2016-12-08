@@ -16,6 +16,10 @@ To run the Webpage:
 2. Open a browser window and navigate to the index.html file in your application's directory and inspect using the developer tools.
 
 
+## Optimized
+*index.html achieves a PageSpeed score of morethan 90 for Mobile and Desktop.
+*Optimizations made to views/js/main.js make views/pizza.html render with a consistent frame-rate at 60fps when scrolling.
+
 
 
 
